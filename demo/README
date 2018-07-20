@@ -1,0 +1,7 @@
+请去“课程资料下载”中的百度云盘分享里下载“课程所有素材.rar”这个压缩文件。解压后，里面包含课程所有素材。放置素材到对应文件夹即可。须要用到素材的源码文件夹下我也写了 README 文件，请查看使用方法。
+
+须要用到素材的源码文件夹是：
+1.TensorFlow_Exercises 下的 7.CNN （卷积神经网络CNN-MNIST的例子）
+1.TensorFlow_Exercises 下的 8.RNN （循环神经网络RNN-LSTM的例子）
+2.Case1_AI_Make_Music（案例一 AI 作曲）
+3.Case2_AI_Photoshop （案例二 AI 制图）
