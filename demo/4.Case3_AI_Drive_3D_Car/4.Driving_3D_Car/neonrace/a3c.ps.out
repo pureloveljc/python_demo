@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "worker.py", line 8, in <module>
+    import cv2
+ImportError: No module named 'cv2'

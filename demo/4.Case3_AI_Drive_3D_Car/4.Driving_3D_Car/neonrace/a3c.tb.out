@@ -1,0 +1,5 @@
+/Users/purelove/workspaces/scrapy_douyu/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.6 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+E0825 16:50:02.705963 MainThread program.py:267] TensorBoard attempted to bind to port 6006, but it was already in use
+E0825 16:50:02.705962 4321260416 program.py:267] TensorBoard attempted to bind to port 6006, but it was already in use
+TensorBoard attempted to bind to port 6006, but it was already in use

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/purelove/github_ljc/python_demo/demo/huobi_project/stock.model"
+all_model_checkpoint_paths: "/home/purelove/github_ljc/python_demo/demo/huobi_project/stock.model"
